@@ -38,6 +38,7 @@ lines(datedata$Datetime,
       type="l", 
       col="red")
 
+
 lines(datedata$Datetime, 
       datedata$Sub_metering_3, 
       type="l", 

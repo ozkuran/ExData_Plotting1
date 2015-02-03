@@ -23,4 +23,5 @@ hist(datedata$Global_active_power,
      ylab= "Frequency", 
      xlab="Global Active Power (kilowatts)")
 
+
 dev.off()
